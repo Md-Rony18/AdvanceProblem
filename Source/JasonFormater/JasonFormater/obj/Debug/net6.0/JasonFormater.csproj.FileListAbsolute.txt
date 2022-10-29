@@ -1,0 +1,15 @@
+D:\C#\JasonFormater\JasonFormater\bin\Debug\net6.0\JasonFormater.exe
+D:\C#\JasonFormater\JasonFormater\bin\Debug\net6.0\JasonFormater.deps.json
+D:\C#\JasonFormater\JasonFormater\bin\Debug\net6.0\JasonFormater.runtimeconfig.json
+D:\C#\JasonFormater\JasonFormater\bin\Debug\net6.0\JasonFormater.dll
+D:\C#\JasonFormater\JasonFormater\bin\Debug\net6.0\JasonFormater.pdb
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.csproj.AssemblyReference.cache
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.AssemblyInfoInputs.cache
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.AssemblyInfo.cs
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.csproj.CoreCompileInputs.cache
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.dll
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\refint\JasonFormater.dll
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.pdb
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\JasonFormater.genruntimeconfig.cache
+D:\C#\JasonFormater\JasonFormater\obj\Debug\net6.0\ref\JasonFormater.dll
